@@ -1,2 +1,2 @@
-# iHacker Earth - Deep Learning - Identify the Animal
+# Hacker Earth - Deep Learning - Identify the Animal
 
