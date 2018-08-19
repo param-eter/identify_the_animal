@@ -35,10 +35,9 @@ Filenames and tags for training images in **test.csv**
 *Used resnet101 with dropout and differential learning rates*  
 -Do this 3 times (small, medium and large image sizes)  
 
--Get predictions using test time augmentation
+-Get predictions using test time augmentation  
 -Take the class with the largest probability figure
 
 
 ## Outcome
 This model returned a cross validation accuracy of around **96.7%** and a leaderboard accuracy of **94%**. This was good enough to get 11th when the competition finished.
-
