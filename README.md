@@ -40,4 +40,4 @@ Filenames and tags for training images in **test.csv**
 
 
 ## Outcome
-This model returned a cross validation accuracy of around **96.7%** and a leaderboard accuracy of **94%**. This was good enough to get 11th when the competition finished.
+This model returned a validation accuracy of around **96.7%** and a leaderboard accuracy of **94%**. This was good enough to get 11th when the competition finished.
