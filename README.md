@@ -1,7 +1,7 @@
 # Hacker Earth - Deep Learning - Identify the Animal
 
 ## Overview
-This is my model for the beginner deep learning challaege on [Hackerearth](https://www.hackerearth.com/problem/machine-learning/predict-the-energy-used-612632a9-9de79188/).
+This is my model for the beginner deep learning challenge on [Hackerearth](https://www.hackerearth.com/problem/machine-learning/predict-the-energy-used-612632a9-9de79188/).
 
 The goal is to tag each picture with what animal it contains.
 
